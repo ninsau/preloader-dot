@@ -3,7 +3,7 @@ Whole page preloader with animations.
 
 A simple css preloader to include in your website.
 
-** FEATURES
+# FEATURES
 * Made with pure css, void of frameworks.
 * Easy to implement.
 * Animation displays until website content is fully loaded.
