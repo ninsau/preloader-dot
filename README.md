@@ -8,3 +8,4 @@ A simple css preloader to include in your website.
 * Easy to implement.
 * Animation displays until website content is fully loaded.
 * Sample HTML5 and Javascript to get you started.
+* Have fun !
